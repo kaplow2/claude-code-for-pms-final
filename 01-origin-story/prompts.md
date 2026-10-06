@@ -37,7 +37,3 @@ Combine the findings, contradictions, missing, and impact rankings to draft a pr
 ### 4.
 
 Are there other considerations (signals in the data, people to connect with, etc.) that we incorporate into the plan?
-
-### 5.
-
-Save the plan to a file in this folder
