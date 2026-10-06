@@ -110,3 +110,9 @@ Dispatch, replacing Priya Raghunathan (left 21 Aug, no overlap). Today is early 
 Agree with Helen which squeezed items are still Q3 commitments; get Ravi to split taken
 and missed by responder and week; have Wen Li explain ranking and write it down; ask
 Marcus whether the ping wait can be tested alone.
+
+### Learned in session 1 (Module 1)
+- The wiki's Product briefs, Research and Customer interviews pages and rook-database (callouts, pings, responders, handlers, support_tickets; 29 Jun to 6 Sep) matter more than the handoff. The saved plan is `4.2-remediation-plan.md` in the root.
+- Missed pings are up in every time band and fit the 60s ping wait. Unfilled callouts (5.5% to 11%) sit in Southport, Riverside and Kingsbridge, not in the starved responders' areas. Treat these as two separate problems.
+- Starved responders and their handlers: Farlight (Linda Pruitt), The Undertow (Desmond Okafor), Meteor Mite (Kip, who also handles flooded The Gale in the same area), Vesper (Aunt Dot). Reach responders only through handlers.
+- Still open: why 60s was chosen, whether the rank penalty for missed pings drives the starvation, and whether September recovered. The database data ends 6 Sep, so ask Ravi for a fresh extract.

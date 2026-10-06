@@ -24,6 +24,20 @@ prompt library built from your own questions.
 
 ### 1.
 
+Expand your review, highlight what is contradictory or missing.
+
 ### 2.
 
+From looking at the data, provide a list of top 5 impacts following the 4.2 release. Our goal is to determine our plan of action that has the most immediate positive impact for Rook, the superheroes, and the community.
+
 ### 3.
+
+Combine the findings, contradictions, missing, and impact rankings to draft a project plan for remediation and a communications plan, including interviews/questions to ask team members and customers. Provide this as a summary that would not exceed 1 page. In that, tell me what my immediate top 3 actions are.
+
+### 4.
+
+Are there other considerations (signals in the data, people to connect with, etc.) that we incorporate into the plan?
+
+### 5.
+
+Save the plan to a file in this folder
