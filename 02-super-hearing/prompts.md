@@ -77,7 +77,3 @@ run the pings query on the six responders
 ### 16.
 
 now, create a stakeholders chart for me -- handlers, responders, rook team members -- who are they, what are their roles?
-
-### 17.
-
-let's summarize this session, fill in the below based on this session:
