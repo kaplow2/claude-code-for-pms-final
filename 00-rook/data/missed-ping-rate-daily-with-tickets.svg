@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" font-family="Arial,sans-serif" font-size="13"><rect width="100%" height="100%" fill="#fff"/>
+<text x="80" y="36" font-size="24" font-weight="bold" fill="#1f2d3d">Daily missed-ping rate, with support tickets and Slack escalation marked</text>
+<text x="80" y="60" fill="#555" font-size="14">Bars: share of that day's pings missed (about 25 pings a day). Dots below: the date each ticket was filed, one dot per ticket.</text>
+<line x1="80" x2="1230" y1="460.0" y2="460.0" stroke="#e6e6e6"/><text x="72" y="464.0" text-anchor="end" fill="#666">0%</text>
+<line x1="80" x2="1230" y1="394.0" y2="394.0" stroke="#e6e6e6"/><text x="72" y="398.0" text-anchor="end" fill="#666">10%</text>
+<line x1="80" x2="1230" y1="328.0" y2="328.0" stroke="#e6e6e6"/><text x="72" y="332.0" text-anchor="end" fill="#666">20%</text>
+<line x1="80" x2="1230" y1="262.0" y2="262.0" stroke="#e6e6e6"/><text x="72" y="266.0" text-anchor="end" fill="#666">30%</text>
+<line x1="80" x2="1230" y1="196.0" y2="196.0" stroke="#e6e6e6"/><text x="72" y="200.0" text-anchor="end" fill="#666">40%</text>
+<line x1="80" x2="1230" y1="130.0" y2="130.0" stroke="#e6e6e6"/><text x="72" y="134.0" text-anchor="end" fill="#666">50%</text>
+<rect x="792.6760563380282" y="130" width="437.32394366197184" height="530" fill="#fdecea" opacity="0.55"/>
+<rect x="80.0" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="96.2" y="430.0" width="14.7" height="30.0" fill="#9db4cc"/>
+<rect x="112.4" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="128.6" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="144.8" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="161.0" y="407.2" width="14.7" height="52.8" fill="#9db4cc"/>
+<rect x="177.2" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="193.4" y="434.6" width="14.7" height="25.4" fill="#9db4cc"/>
+<rect x="209.6" y="420.0" width="14.7" height="40.0" fill="#9db4cc"/>
+<rect x="225.8" y="435.6" width="14.7" height="24.4" fill="#9db4cc"/>
+<rect x="242.0" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="258.2" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="274.4" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="290.6" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="306.8" y="409.2" width="14.7" height="50.8" fill="#9db4cc"/>
+<rect x="323.0" y="425.3" width="14.7" height="34.7" fill="#9db4cc"/>
+<rect x="339.2" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="355.4" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="371.5" y="414.5" width="14.7" height="45.5" fill="#9db4cc"/>
+<rect x="387.7" y="432.5" width="14.7" height="27.5" fill="#9db4cc"/>
+<rect x="403.9" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="420.1" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="436.3" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="452.5" y="438.0" width="14.7" height="22.0" fill="#9db4cc"/>
+<rect x="468.7" y="435.6" width="14.7" height="24.4" fill="#9db4cc"/>
+<rect x="484.9" y="389.3" width="14.7" height="70.7" fill="#9db4cc"/>
+<rect x="501.1" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="517.3" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="533.5" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="549.7" y="433.6" width="14.7" height="26.4" fill="#9db4cc"/>
+<rect x="565.9" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="582.1" y="428.6" width="14.7" height="31.4" fill="#9db4cc"/>
+<rect x="598.3" y="428.6" width="14.7" height="31.4" fill="#9db4cc"/>
+<rect x="614.5" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="630.7" y="438.7" width="14.7" height="21.3" fill="#9db4cc"/>
+<rect x="646.9" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="663.1" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="679.3" y="442.6" width="14.7" height="17.4" fill="#9db4cc"/>
+<rect x="695.5" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="711.7" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="727.9" y="431.3" width="14.7" height="28.7" fill="#9db4cc"/>
+<rect x="744.1" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="760.3" y="460.0" width="14.7" height="0.0" fill="#9db4cc"/>
+<rect x="776.5" y="425.3" width="14.7" height="34.7" fill="#9db4cc"/>
+<rect x="792.7" y="275.2" width="14.7" height="184.8" fill="#c0392b"/>
+<rect x="808.9" y="143.2" width="14.7" height="316.8" fill="#c0392b"/>
+<rect x="825.1" y="284.0" width="14.7" height="176.0" fill="#c0392b"/>
+<rect x="841.3" y="295.0" width="14.7" height="165.0" fill="#c0392b"/>
+<rect x="857.5" y="340.0" width="14.7" height="120.0" fill="#c0392b"/>
+<rect x="873.7" y="432.5" width="14.7" height="27.5" fill="#c0392b"/>
+<rect x="889.9" y="407.2" width="14.7" height="52.8" fill="#c0392b"/>
+<rect x="906.1" y="295.0" width="14.7" height="165.0" fill="#c0392b"/>
+<rect x="922.3" y="321.1" width="14.7" height="138.9" fill="#c0392b"/>
+<rect x="938.5" y="275.2" width="14.7" height="184.8" fill="#c0392b"/>
+<rect x="954.6" y="377.5" width="14.7" height="82.5" fill="#c0392b"/>
+<rect x="970.8" y="301.6" width="14.7" height="158.4" fill="#c0392b"/>
+<rect x="987.0" y="301.6" width="14.7" height="158.4" fill="#c0392b"/>
+<rect x="1003.2" y="350.0" width="14.7" height="110.0" fill="#c0392b"/>
+<rect x="1019.4" y="402.6" width="14.7" height="57.4" fill="#c0392b"/>
+<rect x="1035.6" y="394.0" width="14.7" height="66.0" fill="#c0392b"/>
+<rect x="1051.8" y="400.0" width="14.7" height="60.0" fill="#c0392b"/>
+<rect x="1068.0" y="310.0" width="14.7" height="150.0" fill="#c0392b"/>
+<rect x="1084.2" y="377.5" width="14.7" height="82.5" fill="#c0392b"/>
+<rect x="1100.4" y="390.5" width="14.7" height="69.5" fill="#c0392b"/>
+<rect x="1116.6" y="354.4" width="14.7" height="105.6" fill="#c0392b"/>
+<rect x="1132.8" y="343.5" width="14.7" height="116.5" fill="#c0392b"/>
+<rect x="1149.0" y="407.2" width="14.7" height="52.8" fill="#c0392b"/>
+<rect x="1165.2" y="394.0" width="14.7" height="66.0" fill="#c0392b"/>
+<rect x="1181.4" y="416.0" width="14.7" height="44.0" fill="#c0392b"/>
+<rect x="1197.6" y="286.3" width="14.7" height="173.7" fill="#c0392b"/>
+<text x="816.2" y="147.2" text-anchor="start" font-weight="bold" fill="#c0392b" dx="14">13 Aug: 48%</text>
+<text x="786.7" y="269.2" text-anchor="end" fill="#c0392b" font-size="12">12 Aug 28%</text>
+<line x1="792.6760563380282" x2="792.6760563380282" y1="118" y2="660" stroke="#c0392b" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="784.6760563380282" y="112" text-anchor="end" font-weight="bold" fill="#c0392b" font-size="15">Release 4.2 ships: Wed 12 Aug</text>
+<text x="86" y="156.4" fill="#456" font-size="14" font-weight="bold">Before 4.2: 0–11% a day, typically 0–5%</text>
+<line x1="87.3" x2="87.3" y1="460" y2="465" stroke="#888"/><text x="87.3" y="480" text-anchor="middle" fill="#666" font-size="12">29 Jun</text>
+<line x1="200.7" x2="200.7" y1="460" y2="465" stroke="#888"/><text x="200.7" y="480" text-anchor="middle" fill="#666" font-size="12">6 Jul</text>
+<line x1="314.1" x2="314.1" y1="460" y2="465" stroke="#888"/><text x="314.1" y="480" text-anchor="middle" fill="#666" font-size="12">13 Jul</text>
+<line x1="427.5" x2="427.5" y1="460" y2="465" stroke="#888"/><text x="427.5" y="480" text-anchor="middle" fill="#666" font-size="12">20 Jul</text>
+<line x1="540.9" x2="540.9" y1="460" y2="465" stroke="#888"/><text x="540.9" y="480" text-anchor="middle" fill="#666" font-size="12">27 Jul</text>
+<line x1="654.2" x2="654.2" y1="460" y2="465" stroke="#888"/><text x="654.2" y="480" text-anchor="middle" fill="#666" font-size="12">3 Aug</text>
+<line x1="767.6" x2="767.6" y1="460" y2="465" stroke="#888"/><text x="767.6" y="480" text-anchor="middle" fill="#666" font-size="12">10 Aug</text>
+<line x1="881.0" x2="881.0" y1="460" y2="465" stroke="#888"/><text x="881.0" y="480" text-anchor="middle" fill="#666" font-size="12">17 Aug</text>
+<line x1="994.4" x2="994.4" y1="460" y2="465" stroke="#888"/><text x="994.4" y="480" text-anchor="middle" fill="#666" font-size="12">24 Aug</text>
+<line x1="1107.8" x2="1107.8" y1="460" y2="465" stroke="#888"/><text x="1107.8" y="480" text-anchor="middle" fill="#666" font-size="12">31 Aug</text>
+<line x1="1221.2" x2="1221.2" y1="460" y2="465" stroke="#888"/><text x="1221.2" y="480" text-anchor="middle" fill="#666" font-size="12">7 Sep</text>
+<text x="655.0" y="500" text-anchor="middle" fill="#666">Date (Mondays labelled)</text>
+<text x="84" y="564" fill="#d98a00" font-weight="bold" font-size="13">"Gone before he could answer" tickets (15)</text>
+<line x1="80" x2="1230" y1="574" y2="574" stroke="#eee"/>
+<circle cx="800.0" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="816.2" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="832.4" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="832.4" cy="549.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="848.6" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="864.8" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="864.8" cy="549.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="913.4" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="945.8" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="962.0" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="1010.6" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="1075.4" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="1091.6" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="1124.0" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<circle cx="1188.8" cy="560.0" r="4.5" fill="#d98a00" stroke="#fff" stroke-width="1"/>
+<text x="84" y="628" fill="#1f6fb5" font-weight="bold" font-size="13">"Phone gone quiet" tickets (30)</text>
+<line x1="80" x2="1230" y1="638" y2="638" stroke="#eee"/>
+<circle cx="881.0" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="929.6" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="929.6" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="929.6" cy="602.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="962.0" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="962.0" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="978.2" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="978.2" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="994.4" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="994.4" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1026.8" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1026.8" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1026.8" cy="602.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1026.8" cy="591.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1059.2" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1059.2" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1075.4" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1091.6" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1091.6" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1091.6" cy="602.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1124.0" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1124.0" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1156.4" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1156.4" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1156.4" cy="602.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1172.6" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1188.8" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1188.8" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1221.2" cy="624.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<circle cx="1221.2" cy="613.0" r="4.5" fill="#1f6fb5" stroke="#fff" stroke-width="1"/>
+<text x="84" y="649" fill="#555" font-weight="bold" font-size="13">Slack: internal escalation (3 messages)</text>
+<path d="M832.4,639 l6,6 l-6,6 l-6,-6 z" fill="#555"/>
+<path d="M897.2,639 l6,6 l-6,6 l-6,-6 z" fill="#555"/>
+<path d="M913.4,639 l6,6 l-6,6 l-6,-6 z" fill="#555"/>
+<text x="811.1" y="649" text-anchor="end" fill="#555" font-size="12">14 Aug: ranking question · 18 Aug: tickets flagged · 19 Aug: "seasonal" →</text>
+<text x="808.0" y="542" fill="#d98a00" font-size="12" font-weight="bold">first ticket: same day (12 Aug)</text>
+<text x="782.7" y="628" text-anchor="end" fill="#1f6fb5" font-size="12" font-weight="bold">first ticket: 17 Aug (5 days after release)</text>
+<text x="80" y="770" fill="#777" font-size="11">Ping data ends 6 Sep; tickets to 7 Sep. Daily rates rest on about 25 pings, so single days move by a few points.</text>
+<text x="80" y="786" fill="#777" font-size="11">The 17–18 Aug dip is not a recovery: the starved responders had stopped being pinged. Source: rook.pings, support_tickets_categorized.csv, Dispatch Slack thread.</text>
+</svg>

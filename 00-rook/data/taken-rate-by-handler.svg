@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 560" font-family="Arial,sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="60" y="26" font-size="18" font-weight="bold">Weekly taken rate by handler, 29 Jun to 31 Aug 2026</text>
+<text x="60" y="46" fill="#555">Taken rate = pings taken / pings sent. Coloured: handlers of the four responders who nearly stopped receiving pings. Grey: the other 11 handlers.</text>
+<line x1="60" x2="860" y1="490.0" y2="490.0" stroke="#e3e3e3"/><text x="52" y="494.0" text-anchor="end" fill="#555">0%</text>
+<line x1="60" x2="860" y1="406.0" y2="406.0" stroke="#e3e3e3"/><text x="52" y="410.0" text-anchor="end" fill="#555">20%</text>
+<line x1="60" x2="860" y1="322.0" y2="322.0" stroke="#e3e3e3"/><text x="52" y="326.0" text-anchor="end" fill="#555">40%</text>
+<line x1="60" x2="860" y1="238.0" y2="238.0" stroke="#e3e3e3"/><text x="52" y="242.0" text-anchor="end" fill="#555">60%</text>
+<line x1="60" x2="860" y1="154.0" y2="154.0" stroke="#e3e3e3"/><text x="52" y="158.0" text-anchor="end" fill="#555">80%</text>
+<line x1="60" x2="860" y1="70.0" y2="70.0" stroke="#e3e3e3"/><text x="52" y="74.0" text-anchor="end" fill="#555">100%</text>
+<text x="60.0" y="510" text-anchor="middle" fill="#555">29 Jun</text><line x1="60.0" x2="60.0" y1="490" y2="495" stroke="#999"/>
+<text x="148.88888888888889" y="510" text-anchor="middle" fill="#555">6 Jul</text><line x1="148.88888888888889" x2="148.88888888888889" y1="490" y2="495" stroke="#999"/>
+<text x="237.77777777777777" y="510" text-anchor="middle" fill="#555">13 Jul</text><line x1="237.77777777777777" x2="237.77777777777777" y1="490" y2="495" stroke="#999"/>
+<text x="326.66666666666663" y="510" text-anchor="middle" fill="#555">20 Jul</text><line x1="326.66666666666663" x2="326.66666666666663" y1="490" y2="495" stroke="#999"/>
+<text x="415.55555555555554" y="510" text-anchor="middle" fill="#555">27 Jul</text><line x1="415.55555555555554" x2="415.55555555555554" y1="490" y2="495" stroke="#999"/>
+<text x="504.44444444444446" y="510" text-anchor="middle" fill="#555">3 Aug</text><line x1="504.44444444444446" x2="504.44444444444446" y1="490" y2="495" stroke="#999"/>
+<text x="593.3333333333333" y="510" text-anchor="middle" fill="#555">10 Aug</text><line x1="593.3333333333333" x2="593.3333333333333" y1="490" y2="495" stroke="#999"/>
+<text x="682.2222222222223" y="510" text-anchor="middle" fill="#555">17 Aug</text><line x1="682.2222222222223" x2="682.2222222222223" y1="490" y2="495" stroke="#999"/>
+<text x="771.1111111111111" y="510" text-anchor="middle" fill="#555">24 Aug</text><line x1="771.1111111111111" x2="771.1111111111111" y1="490" y2="495" stroke="#999"/>
+<text x="860.0" y="510" text-anchor="middle" fill="#555">31 Aug</text><line x1="860.0" x2="860.0" y1="490" y2="495" stroke="#999"/>
+<text x="460.0" y="532" text-anchor="middle" fill="#555">Week starting (Monday)</text>
+<rect x="618.7301587301587" y="70" width="241.26984126984132" height="420" fill="#fdecea" opacity="0.6"/>
+<line x1="618.7301587301587" x2="618.7301587301587" y1="64" y2="490" stroke="#c0392b" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="612.7301587301587" y="58" text-anchor="end" font-weight="bold" fill="#c0392b" font-size="14">Release 4.2 ships: Wed 12 Aug</text>
+<text x="624.7301587301587" y="84" fill="#c0392b">After 4.2 →</text><text x="612.7301587301587" y="84" text-anchor="end" fill="#555">← Before</text>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,140.0 148.9,140.0 237.8,130.0 326.7,140.0 415.6,140.0 504.4,140.0 593.3,250.0 682.2,190.0 771.1,175.0 860.0,227.5"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,163.3 148.9,116.7 237.8,175.0 326.7,196.0 415.6,163.3 504.4,116.7 593.3,238.0 682.2,184.5 771.1,210.0 860.0,175.0"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,190.0 148.9,190.0 237.8,122.5 326.7,190.0 415.6,190.0 504.4,190.0 593.3,227.5 682.2,175.0 771.1,256.7 860.0,163.3"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,163.3 148.9,163.3 237.8,154.0 326.7,163.3 415.6,227.5 504.4,163.3 593.3,280.0 682.2,154.0 771.1,222.7 860.0,184.5"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,182.0 148.9,190.0 237.8,154.0 326.7,175.0 415.6,182.0 504.4,154.0 593.3,253.8 682.2,163.3 771.1,217.0 860.0,190.0"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,140.0 148.9,166.9 237.8,210.0 326.7,222.7 415.6,175.0 504.4,175.0 593.3,231.5 682.2,182.0 771.1,168.8 860.0,186.7"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,112.0 148.9,154.0 237.8,184.5 326.7,154.0 415.6,163.3 504.4,154.0 593.3,222.7 682.2,199.2 771.1,182.0 860.0,201.2"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,166.9 148.9,134.6 237.8,175.0 326.7,130.0 415.6,166.9 504.4,166.9 593.3,250.0 682.2,175.0 771.1,186.7 860.0,158.4"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,184.5 148.9,196.0 237.8,184.5 326.7,210.0 415.6,146.4 504.4,184.5 593.3,260.9 682.2,256.7 771.1,227.5 860.0,122.5"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,175.0 148.9,227.5 237.8,116.7 326.7,175.0 415.6,190.0 504.4,122.5 593.3,256.7 682.2,238.0 771.1,184.5 860.0,175.0"/>
+<polyline fill="none" stroke="#aaa" stroke-width="1.5" opacity="0.7" points="60.0,154.0 148.9,146.4 237.8,196.0 326.7,163.3 415.6,154.0 504.4,154.0 593.3,238.0 682.2,227.5 771.1,190.0 860.0,190.0"/>
+<polyline fill="none" stroke="#c0392b" stroke-width="3" opacity="1" points="60.0,175.0 148.9,175.0 237.8,184.5 326.7,175.0 415.6,166.9 504.4,210.0 593.3,322.0 682.2,490.0 771.1,490.0"/>
+<circle cx="60.0" cy="175.0" r="3.5" fill="#c0392b"/>
+<circle cx="148.9" cy="175.0" r="3.5" fill="#c0392b"/>
+<circle cx="237.8" cy="184.5" r="3.5" fill="#c0392b"/>
+<circle cx="326.7" cy="175.0" r="3.5" fill="#c0392b"/>
+<circle cx="415.6" cy="166.9" r="3.5" fill="#c0392b"/>
+<circle cx="504.4" cy="210.0" r="3.5" fill="#c0392b"/>
+<circle cx="593.3" cy="322.0" r="3.5" fill="#c0392b"/>
+<circle cx="682.2" cy="490.0" r="3.5" fill="#c0392b"/>
+<circle cx="771.1" cy="490.0" r="3.5" fill="#c0392b"/>
+<polyline fill="none" stroke="#d98a00" stroke-width="3" opacity="1" points="60.0,175.0 148.9,146.4 237.8,175.0 326.7,166.9 415.6,140.0 504.4,175.0 593.3,337.3 682.2,385.0 771.1,490.0 860.0,490.0"/>
+<circle cx="60.0" cy="175.0" r="3.5" fill="#d98a00"/>
+<circle cx="148.9" cy="146.4" r="3.5" fill="#d98a00"/>
+<circle cx="237.8" cy="175.0" r="3.5" fill="#d98a00"/>
+<circle cx="326.7" cy="166.9" r="3.5" fill="#d98a00"/>
+<circle cx="415.6" cy="140.0" r="3.5" fill="#d98a00"/>
+<circle cx="504.4" cy="175.0" r="3.5" fill="#d98a00"/>
+<circle cx="593.3" cy="337.3" r="3.5" fill="#d98a00"/>
+<circle cx="682.2" cy="385.0" r="3.5" fill="#d98a00"/>
+<circle cx="771.1" cy="490.0" r="3.5" fill="#d98a00"/>
+<circle cx="860.0" cy="490.0" r="3.5" fill="#d98a00"/>
+<polyline fill="none" stroke="#7b3fa0" stroke-width="3" opacity="1" points="60.0,192.5 148.9,175.0 237.8,197.8 326.7,187.6 415.6,154.0 504.4,175.0 593.3,271.6 682.2,230.0 771.1,222.7 860.0,184.5"/>
+<circle cx="60.0" cy="192.5" r="3.5" fill="#7b3fa0"/>
+<circle cx="148.9" cy="175.0" r="3.5" fill="#7b3fa0"/>
+<circle cx="237.8" cy="197.8" r="3.5" fill="#7b3fa0"/>
+<circle cx="326.7" cy="187.6" r="3.5" fill="#7b3fa0"/>
+<circle cx="415.6" cy="154.0" r="3.5" fill="#7b3fa0"/>
+<circle cx="504.4" cy="175.0" r="3.5" fill="#7b3fa0"/>
+<circle cx="593.3" cy="271.6" r="3.5" fill="#7b3fa0"/>
+<circle cx="682.2" cy="230.0" r="3.5" fill="#7b3fa0"/>
+<circle cx="771.1" cy="222.7" r="3.5" fill="#7b3fa0"/>
+<circle cx="860.0" cy="184.5" r="3.5" fill="#7b3fa0"/>
+<polyline fill="none" stroke="#1f6fb5" stroke-width="3" opacity="1" points="60.0,160.0 148.9,166.9 237.8,126.0 326.7,160.0 415.6,134.6 504.4,130.0 593.3,280.0 682.2,406.0 771.1,490.0 860.0,490.0"/>
+<circle cx="60.0" cy="160.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="148.9" cy="166.9" r="3.5" fill="#1f6fb5"/>
+<circle cx="237.8" cy="126.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="326.7" cy="160.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="415.6" cy="134.6" r="3.5" fill="#1f6fb5"/>
+<circle cx="504.4" cy="130.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="593.3" cy="280.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="682.2" cy="406.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="771.1" cy="490.0" r="3.5" fill="#1f6fb5"/>
+<circle cx="860.0" cy="490.0" r="3.5" fill="#1f6fb5"/>
+<text x="868" y="494.0" fill="#c0392b" font-weight="bold">Linda Pruitt (Farlight; 0 pings 31 Aug)</text>
+<text x="868" y="477.0" fill="#d98a00" font-weight="bold">Desmond Okafor (Undertow)</text>
+<text x="868" y="460.0" fill="#1f6fb5" font-weight="bold">Aunt Dot (Vesper)</text>
+<text x="868" y="188.5454545454545" fill="#7b3fa0" font-weight="bold">Kip (Meteor Mite + Gale)</text>
+<text x="868" y="154.0" fill="#888">Other 11 handlers</text>
+</svg>

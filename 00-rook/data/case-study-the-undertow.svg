@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" font-family="Arial,sans-serif" font-size="12"><rect width="100%" height="100%" fill="#fff"/>
+<text x="60" y="26" font-size="18" font-weight="bold" fill="#1f2d3d">The Undertow: from about 12 pings a week to one</text>
+<text x="60" y="52" font-size="13" fill="#555" font-weight="bold">A. Pings per week and how each ended</text>
+<line x1="60" x2="960" y1="250.0" y2="250.0" stroke="#e8e8e8"/><text x="52" y="254.0" text-anchor="end" fill="#666">0</text>
+<line x1="60" x2="960" y1="185.71428571428572" y2="185.71428571428572" stroke="#e8e8e8"/><text x="52" y="189.71428571428572" text-anchor="end" fill="#666">5</text>
+<line x1="60" x2="960" y1="121.42857142857142" y2="121.42857142857142" stroke="#e8e8e8"/><text x="52" y="125.42857142857142" text-anchor="end" fill="#666">10</text>
+<rect x="66.0" y="134.3" width="78.0" height="115.7" fill="#6f8fb0"/>
+<rect x="66.0" y="95.7" width="78.0" height="38.6" fill="#e0a030"/>
+<text x="105.0" y="90.7" text-anchor="middle" fill="#333" font-weight="bold">12</text>
+<text x="105.0" y="266" text-anchor="middle" fill="#666">29 Jun</text>
+<rect x="156.0" y="134.3" width="78.0" height="115.7" fill="#6f8fb0"/>
+<rect x="156.0" y="108.6" width="78.0" height="25.7" fill="#e0a030"/>
+<text x="195.0" y="103.6" text-anchor="middle" fill="#333" font-weight="bold">11</text>
+<text x="195.0" y="266" text-anchor="middle" fill="#666">6 Jul</text>
+<rect x="246.0" y="134.3" width="78.0" height="115.7" fill="#6f8fb0"/>
+<rect x="246.0" y="108.6" width="78.0" height="25.7" fill="#e0a030"/>
+<rect x="246.0" y="95.7" width="78.0" height="12.9" fill="#c0392b"/>
+<text x="285.0" y="90.7" text-anchor="middle" fill="#333" font-weight="bold">12</text>
+<text x="285.0" y="266" text-anchor="middle" fill="#666">13 Jul</text>
+<rect x="336.0" y="121.4" width="78.0" height="128.6" fill="#6f8fb0"/>
+<rect x="336.0" y="82.9" width="78.0" height="38.6" fill="#e0a030"/>
+<text x="375.0" y="77.9" text-anchor="middle" fill="#333" font-weight="bold">13</text>
+<text x="375.0" y="266" text-anchor="middle" fill="#666">20 Jul</text>
+<rect x="426.0" y="121.4" width="78.0" height="128.6" fill="#6f8fb0"/>
+<rect x="426.0" y="95.7" width="78.0" height="25.7" fill="#e0a030"/>
+<text x="465.0" y="90.7" text-anchor="middle" fill="#333" font-weight="bold">12</text>
+<text x="465.0" y="266" text-anchor="middle" fill="#666">27 Jul</text>
+<rect x="516.0" y="134.3" width="78.0" height="115.7" fill="#6f8fb0"/>
+<rect x="516.0" y="95.7" width="78.0" height="38.6" fill="#e0a030"/>
+<text x="555.0" y="90.7" text-anchor="middle" fill="#333" font-weight="bold">12</text>
+<text x="555.0" y="266" text-anchor="middle" fill="#666">3 Aug</text>
+<rect x="606.0" y="198.6" width="78.0" height="51.4" fill="#6f8fb0"/>
+<rect x="606.0" y="172.9" width="78.0" height="25.7" fill="#e0a030"/>
+<rect x="606.0" y="108.6" width="78.0" height="64.3" fill="#c0392b"/>
+<text x="645.0" y="103.6" text-anchor="middle" fill="#333" font-weight="bold">11</text>
+<text x="645.0" y="266" text-anchor="middle" fill="#666">10 Aug</text>
+<rect x="696.0" y="237.1" width="78.0" height="12.9" fill="#6f8fb0"/>
+<rect x="696.0" y="224.3" width="78.0" height="12.9" fill="#e0a030"/>
+<rect x="696.0" y="198.6" width="78.0" height="25.7" fill="#c0392b"/>
+<text x="735.0" y="193.6" text-anchor="middle" fill="#333" font-weight="bold">4</text>
+<text x="735.0" y="266" text-anchor="middle" fill="#666">17 Aug</text>
+<rect x="786.0" y="237.1" width="78.0" height="12.9" fill="#c0392b"/>
+<text x="825.0" y="232.1" text-anchor="middle" fill="#333" font-weight="bold">1</text>
+<text x="825.0" y="266" text-anchor="middle" fill="#666">24 Aug</text>
+<rect x="876.0" y="237.1" width="78.0" height="12.9" fill="#c0392b"/>
+<text x="915.0" y="232.1" text-anchor="middle" fill="#333" font-weight="bold">1</text>
+<text x="915.0" y="266" text-anchor="middle" fill="#666">31 Aug</text>
+<line x1="625.7" x2="625.7" y1="56" y2="250" stroke="#c0392b" stroke-width="2" stroke-dasharray="6 4"/><text x="619.7" y="66" text-anchor="end" fill="#c0392b" font-weight="bold">Release 4.2: 12 Aug</text>
+<rect x="620" y="40" width="11" height="11" fill="#6f8fb0"/><text x="636" y="50" fill="#333">Taken</text>
+<rect x="695" y="40" width="11" height="11" fill="#e0a030"/><text x="711" y="50" fill="#333">Turned down</text>
+<rect x="812" y="40" width="11" height="11" fill="#c0392b"/><text x="828" y="50" fill="#333">Missed</text>
+<text x="60" y="306" font-size="13" fill="#555" font-weight="bold">B. Every ping since 10 Aug, and when the handler wrote in</text>
+<line x1="60.0" x2="60.0" y1="330" y2="480" stroke="#eee"/><text x="60.0" y="496" text-anchor="middle" fill="#666">10 Aug</text>
+<line x1="277.2" x2="277.2" y1="330" y2="480" stroke="#eee"/><text x="277.2" y="496" text-anchor="middle" fill="#666">17 Aug</text>
+<line x1="494.5" x2="494.5" y1="330" y2="480" stroke="#eee"/><text x="494.5" y="496" text-anchor="middle" fill="#666">24 Aug</text>
+<line x1="711.7" x2="711.7" y1="330" y2="480" stroke="#eee"/><text x="711.7" y="496" text-anchor="middle" fill="#666">31 Aug</text>
+<line x1="929.0" x2="929.0" y1="330" y2="480" stroke="#eee"/><text x="929.0" y="496" text-anchor="middle" fill="#666">7 Sep</text>
+<line x1="133.7" x2="133.7" y1="322" y2="480" stroke="#c0392b" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="139.7" y="328" fill="#c0392b" font-weight="bold" font-size="11">4.2 ships</text>
+<line x1="60" x2="960" y1="360" y2="360" stroke="#ddd"/>
+<text x="54" y="364" text-anchor="end" fill="#333" font-weight="bold">Pings</text>
+<circle cx="84.3" cy="360" r="6" fill="#6f8fb0" stroke="#fff"/>
+<circle cx="85.5" cy="360" r="6" fill="#6f8fb0" stroke="#fff"/>
+<circle cx="115.6" cy="360" r="6" fill="#e0a030" stroke="#fff"/>
+<circle cx="133.8" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="167.8" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="170.5" cy="360" r="6" fill="#6f8fb0" stroke="#fff"/>
+<circle cx="173.7" cy="360" r="6" fill="#6f8fb0" stroke="#fff"/>
+<circle cx="177.3" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="187.9" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="197.5" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="264.0" cy="360" r="6" fill="#e0a030" stroke="#fff"/>
+<circle cx="295.6" cy="360" r="6" fill="#e0a030" stroke="#fff"/>
+<circle cx="302.0" cy="360" r="6" fill="#6f8fb0" stroke="#fff"/>
+<circle cx="329.4" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="423.0" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="617.7" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<circle cx="886.7" cy="360" r="6" fill="#c0392b" stroke="#fff"/>
+<line x1="423.0" x2="617.7" y1="384" y2="384" stroke="#777"/><line x1="423.0" x2="423.0" y1="380" y2="388" stroke="#777"/><line x1="617.7" x2="617.7" y1="380" y2="388" stroke="#777"/>
+<text x="520.4" y="400" text-anchor="middle" fill="#555" font-size="11">6 days silent</text>
+<line x1="617.7" x2="886.7" y1="384" y2="384" stroke="#777"/><line x1="617.7" x2="617.7" y1="380" y2="388" stroke="#777"/><line x1="886.7" x2="886.7" y1="380" y2="388" stroke="#777"/>
+<text x="752.2" y="400" text-anchor="middle" fill="#555" font-size="11">9 days silent</text>
+<text x="302.0" y="346" text-anchor="middle" fill="#6f8fb0" font-size="11" font-weight="bold">last ping answered (17 Aug)</text>
+<line x1="60" x2="960" y1="450" y2="450" stroke="#ddd"/><text x="54" y="454" text-anchor="end" fill="#333" font-weight="bold">Tickets</text>
+<rect x="380.9" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="442.9" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="505.0" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="567.1" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="629.1" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="691.2" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="753.3" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="815.3" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="877.4" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="939.5" y="445" width="10" height="10" fill="#1f6fb5"/>
+<rect x="877.4" y="432" width="10" height="10" fill="#d98a00"/>
+<text x="375.9" y="472" fill="#1f6fb5" font-size="11" text-anchor="start">Blue: "quiet" tickets from the handler (10, all still open)</text>
+<text x="872.4" y="426" fill="#d98a00" font-size="11" text-anchor="end">Orange: "first one in 9 days and he missed it"</text>
+<text x="60" y="568" fill="#777" font-size="11">Source: rook.pings (outcomes and times), support tickets 3073–3145, callouts table. Ping data ends 6 Sep; tickets to 7 Sep.</text>
+</svg>
